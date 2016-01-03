@@ -17,3 +17,9 @@ What happens when you initialize a repository? Why do you need to do it?
 This allows me to make updates and retrieve earlier revisions
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area allows us to keep track of the files that we want to commit ...
+How can you use the staging area to make sure you have one commit per logical change?
+Compare staging area with the repository
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Allow one to tryout new features without disturbing the core programs
+How do the diagrams help you visualize the branch structure?
+This gives a visual view of how the development is progressing ...
